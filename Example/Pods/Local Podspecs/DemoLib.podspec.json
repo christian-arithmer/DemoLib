@@ -1,0 +1,22 @@
+{
+  "name": "DemoLib",
+  "version": "0.1.0",
+  "summary": "A short description of DemoLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/christian-arithmer/DemoLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "christian-arithmer": "christian.saravia@arithmer.co.jp"
+  },
+  "source": {
+    "git": "https://github.com/christian-arithmer/DemoLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DemoLib/Classes/**/*"
+}
